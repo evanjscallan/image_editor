@@ -1,0 +1,4 @@
+.imageClass {
+	color: red;
+	filter: grayscale(50%);
+}
